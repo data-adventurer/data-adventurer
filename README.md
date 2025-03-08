@@ -1,4 +1,8 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Lorraine 
+![Profile Picture]([https://github.com/johndoe/profile/blob/main/profile-pic.png](https://github.com/data-adventurer/data-adventurer/blob/58f70cc4c2edd140d55d29233c044d8513bbd123/Lorraine%20Ferrusi%20Profile%20Photo.jpeg))
+
+---
+
 From the open grasslands of South Africa to the vibrant energy of New York, my journey has been one of adaptation and exploration. With a background in **Mechanical Engineering**, I’ve built a diverse skill set across industries like **hospitality, child care, inventory control**, and **manufacturing** — experiences that sharpened my problem-solving skills and adaptability in dynamic environments.  
 
 My passion for puzzle-solving and uncovering insights led me to transition into **data analytics**. I earned a **Master’s in Data Analysis** from **Western Governors University**, where my capstone project explored how **language and location** influence key performance metrics using **MANOVA**. Along the way, I've gained strong expertise in **Python, R, SQL**, and the **data life cycle**, helping me uncover actionable insights and drive better decisions.  
@@ -15,11 +19,11 @@ My passion for puzzle-solving and uncovering insights led me to transition into 
 ### **Data Analyst** – The Informationlab (US)  
 *2023 – Present*
 
-### **Ducommun Incorporated** – Coxsackie, New York, United States   
+### **Mechanical Engineer** - Ducommun Incorporated
 #### **Quality & Planner Engineer**  
 *Sep 2022 – Dec 2023*  
 - Established accuracy of current engineering by validating customer configuration management, specifications, tooling, and manufacturing processes.  
-- Created over **300 detailed reports** in support of first-piece production in accordance with **AS9102** for **Boeing Commercial Aircraft, Sikorsky Aircraft, Bell Helicopter, Northrop Grumman**, and more.  
+- Created over **300 detailed reports** in support of first-piece production per **AS9102** for **Boeing Commercial Aircraft, Sikorsky Aircraft, Bell Helicopter, Northrop Grumman**, and more.  
 - Created and interpreted **engineering drawings, mylars,** and **model-based engineering** documentation.  
 
 #### **Manufacturing Engineering Technician**  
