@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lorraine 
-![Profile Picture](https://github.com/data-adventurer/data-adventurer/blob/58f70cc4c2edd140d55d29233c044d8513bbd123/Lorraine%20Ferrusi%20Profile%20Photo.jpeg)
+![Profile Picture](<img src="https://github.com/data-adventurer/data-adventurer/blob/58f70cc4c2edd140d55d29233c044d8513bbd123/Lorraine%20Ferrusi%20Profile%20Photo.jpeg)" width="150" />
 
 ---
 
