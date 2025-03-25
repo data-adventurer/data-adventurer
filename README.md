@@ -8,14 +8,22 @@ My passion for puzzle-solving and uncovering insights led me to transition into 
 ---
 
 ## 💼 Work Experience
-### **Tableau Developer** – MassMutual (via The Information Lab)  
-*8 month Contract*  
-- Develop Tableau dashboards for Employee Relations, Compensation, and HR Operations teams  
-- Extract and prepare data from Workday for visualization and analysis  
-- Collaborate with business partners to translate complex data into actionable insights  
-
 ### **Data Analyst** – The Informationlab (US)  
 *2023 – Present*
+
+
+Short-Term Project
+- Created a dashboard with Scrum metrics (KPIs) to measure team productivity, effectiveness, and project progress, identifying key areas for improvement.
+
+
+Long-Term Client Engagement:
+- Created data tables from Workday reports for Tableau dashboards.
+- Automated 10 Alteryx workflows and published them to the server, saving approximately one hour of manual labour per workflow.
+- Developed a Tableau dashboard for employee relations, reducing time for insight by aggregating data and streamlining report creation.
+- Created a Tableau dashboard for HR operations, focusing on trending data for ticket handling.
+- Updated a Tableau dashboard for Compensation Planning, improving clarity and user experience.
+- Created user guides for dashboards to enhance user understanding and adoption.
+- Developed extensive documentation for dashboards and workflows to facilitate future knowledge transfer.
 
 ### **Mechanical Engineer** - Ducommun Incorporated
 #### **Quality & Planner Engineer**  
