@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Lorraine 
-<p align="right">
-  <img src="https://github.com/data-adventurer/data-adventurer/blob/58f70cc4c2edd140d55d29233c044d8513bbd123/Lorraine%20Ferrusi%20Profile%20Photo.jpeg" width="150" height="100" style="border-radius: 50%;" />
-</p>
-
 ---
 
 From the open grasslands of South Africa to the vibrant energy of New York, my journey has been one of adaptation and exploration. With a background in **Mechanical Engineering**, I’ve built a diverse skill set across industries like **hospitality, child care, inventory control**, and **manufacturing** — experiences that sharpened my problem-solving skills and adaptability in dynamic environments.  
