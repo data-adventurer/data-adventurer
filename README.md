@@ -72,7 +72,7 @@ Long-Term Client Engagement:
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lorraine-ferrusi/)  
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail)](mailto:lferrusi94@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-lferrusi94@gmail.com-red?logo=gmail)](mailto:lferrusi94@gmail.com)  
 
 ---
 
