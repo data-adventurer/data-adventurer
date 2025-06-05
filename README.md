@@ -10,11 +10,33 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 ---
 
 ### View my verified badges
-<!-- START_SECTION:badges -->
-<!-- END_SECTION:badges -->
+<!-- Accredible -->
+<a href="https://www.credential.net/139370593">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139370593" alt="dbt Fundamentals" width="80" />
+</a>
+<a href="https://www.credential.net/144361892">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/144361892" alt="dbt Developer" width="80" />
+</a>
 
-![dbt Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139370593)
-![dbt Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/144361892)
+<!-- Achieve -->
+<a href="https://www.credential.net/169712375586692777710499885412">
+  <img src="https://templates.images.credential.net/169712375586692777710499885412.png" alt="Snowflake Essentials 1" width="80" />
+</a>
+
+<!-- Credly -->
+<a href="https://www.credly.com/badges/5d8d3ba7-b329-4de4-9b6c-ed93d83f2483/public_url">
+  <img src="https://images.credly.com/size/80x80/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" alt="Tableau Data Analyst" width="80" />
+</a>
+<a href="https://www.credly.com/badges/f9ff52aa-45f7-453f-b9ce-c7ff83998ce6/public_url">
+  <img src="https://images.credly.com/size/80x80/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced" width="80" />
+</a>
+<a href="https://www.credly.com/badges/bee38462-0782-4332-97e3-3ee7a83f9547/public_url">
+  <img src="https://images.credly.com/size/80x80/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="80" />
+</a>
+<a href="https://www.credly.com/badges/fe2a23d5-05db-4e23-ae42-1ae1f6e1ab39/public_url">
+  <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="Python Entry-Level" width="80" />
+</a>
+
 
 ---
 
