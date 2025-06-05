@@ -4,9 +4,14 @@
 From the grasslands of South Africa to the concrete jungle of New York City, my journey has been one of curiosity and exploration, adapting to the various rhythms of the different environments. Using my background in mechanical engineering, I have worked in various industries, including manufacturing, childcare, and hospitality. I have developed a flexible skill set and a people-centred approach to problem-solving.
 With a love for puzzle-solving and learning new skills, I transitioned into data analytics and earned a master’s in data analysis from Western Governors University. My capstone project focused on a two-way MANOVA analysis of marketing campaign data, examining how language and location impact key performance metrics like click-through rates, conversion rates, and ROI. Through that program, I built a strong foundation in Python, SQL, and Tableau and developed a deeper understanding of applying statistical analysis to real-world business problems.
 
-Since joining the Information Lab, I’ve sharpened my Tableau skills, explored Alteryx and dbt, and continued deepening my SQL expertise. During my time with a client, focused on people analytics data, I led the development of dashboards that supported teams like Employee Relations, Compensation, and HR. In addition to building visualizations and automating workflows, I created detailed documentation to support the dashboard development process—ensuring clarity, consistency, and smooth handovers between consultants.
+Since joining the Information Lab, I’ve sharpened my Tableau skills, explored Alteryx and dbt, and continued deepening my SQL expertise. During my time with a client, I led the development of dashboards that supported teams like Employee Relations, Compensation, and HR, focusing on people analytics. In addition to building visualisations and automating workflows, I created detailed documentation to support the dashboard development process, ensuring clarity, consistency, and smooth handovers between consultants.
 Outside work, I’m always up for a new adventure—whether picking up hobbies like scuba diving and motorcycle riding or delving into personal projects that call on my creativity and enhance my technical skills. And when I’m not in data mode, you’ll likely find me nose-deep in a great book or planning my next adventure.
   
+---
+
+## View my verified badges
+<! --START_SECTION:badges-->
+<! --END_SECTION:badges-->
 
 ---
 
