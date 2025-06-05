@@ -17,7 +17,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: lorraine-ferrusi
-          DEBUG: true
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: data-adventurer/data-adventurer
           COMMIT_MESSAGE: Updated README with new badges
