@@ -13,6 +13,9 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 <!-- START_SECTION:badges -->
 <!-- END_SECTION:badges -->
 
+![dbt Fundamentals](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139370593)
+![dbt Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/144361892)
+
 ---
 
 ## 💼 Work Experience
