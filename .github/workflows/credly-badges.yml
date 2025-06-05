@@ -18,3 +18,10 @@ jobs:
         with:       
           CREDLY_USER: lorraine-ferrusi
           DEBUG: true
+              GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              REPOSITORY: data-adventurer/data-adventurer
+              COMMIT_MESSAGE: Updated README with new badges
+              CREDLY_SORT: RECENT
+              BADGE_SIZE: 110
+              NUMBER_LAST_BADGES: 5
+              GH_API_URL: https://api.github.com
