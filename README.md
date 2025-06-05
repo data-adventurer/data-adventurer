@@ -9,7 +9,7 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
   
 ---
 
-## View my verified badges
+### View my verified badges
 <! --START_SECTION:badges-->
 <! --END_SECTION:badges-->
 
