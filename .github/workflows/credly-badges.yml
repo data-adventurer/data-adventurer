@@ -17,3 +17,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: lorraine-ferrusi
+          DEBUG: true
