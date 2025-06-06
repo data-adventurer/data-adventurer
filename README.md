@@ -12,27 +12,30 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 ### View my verified badges
 <!-- Accredible -->
 <a href="https://credentials.getdbt.com/659dc425-fff1-46a0-a3c8-fe9dd1c6b38e">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/144361892" alt="dbt Developer" width="100" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/144361892" alt="dbt Developer" width="110" />
 </a>
 <a href="https://credentials.getdbt.com/b40fa7b5-5ffd-4a75-8fd6-afe15a914f11">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139370593" alt="dbt Fundamentals" width="100" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139370593" alt="dbt Fundamentals" width="110" />
 </a>
-<a href="https://achieve.snowflake.com/1c53d0d8-edff-4db2-a182-bcbc54e4a972#acc.SEs31oyf">
-  <img src="https://templates.images.credential.net/169712375586692777710499885412.png" alt="Snowflake Essentials 1" width="100" />
+<a href="https://achieve.snowflake.com/1c53d0d8-edff-4db2-a182-bcbc54e4a972">
+  <img src="https://templates.images.credential.net/169712375586692777710499885412.png" alt="Snowflake Essentials 1" width="110" />
+</a>
+<a href="https://achieve.snowflake.com/2735eac0-ace4-4ab8-bf86-98cc1002bb75">
+  <img src="https://templates.images.credential.net/16971236479041875334217527765633.png" alt="Snowflake Essentials 2" width="110" />
 </a>
 
 <!-- Credly -->
 <a href="https://www.credly.com/badges/5d8d3ba7-b329-4de4-9b6c-ed93d83f2483/public_url">
-  <img src="https://images.credly.com/size/80x80/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" alt="Tableau Data Analyst" width="100" />
+  <img src="https://images.credly.com/size/80x80/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" alt="Tableau Data Analyst" width="110" />
 </a>
 <a href="https://www.credly.com/badges/f9ff52aa-45f7-453f-b9ce-c7ff83998ce6/public_url">
-  <img src="https://images.credly.com/size/80x80/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced" width="100" />
+  <img src="https://images.credly.com/size/80x80/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced" width="110" />
 </a>
 <a href="https://www.credly.com/badges/bee38462-0782-4332-97e3-3ee7a83f9547/public_url">
-  <img src="https://images.credly.com/size/80x80/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="100" />
+  <img src="https://images.credly.com/size/80x80/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="110" />
 </a>
 <a href="https://www.credly.com/badges/a882d402-c1bb-4ec6-9342-4695de0a01a2/public_url">
-  <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="Python Entry-Level" width="100" />
+  <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="Python Entry-Level" width="110" />
 </a>
  <!-- DataCamp -->
  <a href="https://www.datacamp.com/certificate/DAA0014172024382">
