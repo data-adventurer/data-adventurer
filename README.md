@@ -20,8 +20,11 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 <a href="https://achieve.snowflake.com/1c53d0d8-edff-4db2-a182-bcbc54e4a972">
   <img src="https://templates.images.credential.net/169712375586692777710499885412.png" alt="Snowflake Essentials 1" width="110" />
 </a>
+<a href="https://achieve.snowflake.com/f7ab7915-34bf-4da1-ae24-5baf373bb735#acc.aECuHYtd">
+  <img src="https://templates.images.credential.net/16971233885374075532896130114336.png" alt="Snowflake Essentials 2" width="110" />
+</a>
 <a href="https://achieve.snowflake.com/2735eac0-ace4-4ab8-bf86-98cc1002bb75">
-  <img src="https://templates.images.credential.net/16971236479041875334217527765633.png" alt="Snowflake Essentials 2" width="110" />
+  <img src="https://templates.images.credential.net/16971236479041875334217527765633.png" alt="Snowflake Essentials 3" width="110" />
 </a>
 
 <!-- Credly -->
@@ -36,6 +39,9 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 </a>
 <a href="https://www.credly.com/badges/a882d402-c1bb-4ec6-9342-4695de0a01a2/public_url">
   <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="Python Entry-Level" width="110" />
+</a>
+<a href="https://www.credly.com/badges/fb5e29e7-9874-4aed-91d2-1f855811f262/public_url">
+  <img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="110" />
 </a>
  <!-- DataCamp -->
  <a href="https://www.datacamp.com/certificate/DAA0014172024382">
