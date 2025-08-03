@@ -26,6 +26,9 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 <a href="https://achieve.snowflake.com/2735eac0-ace4-4ab8-bf86-98cc1002bb75">
   <img src="https://templates.images.credential.net/16971236479041875334217527765633.png" alt="Snowflake Essentials 3" width="110" />
 </a>
+<a href="https://achieve.snowflake.com/1c53d0d8-edff-4db2-a182-bcbc54e4a972#acc.pu3c9YHq">
+  <img src="https://templates.images.credential.net/169712375586692777710499885412.png" alt="Snowflake Essentials 4" width="110" />
+</a>
 
 <!-- Credly -->
 <a href="https://www.credly.com/badges/5d8d3ba7-b329-4de4-9b6c-ed93d83f2483/public_url">
