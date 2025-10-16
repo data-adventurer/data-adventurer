@@ -46,6 +46,7 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 <a href="https://www.credly.com/badges/fb5e29e7-9874-4aed-91d2-1f855811f262/public_url">
   <img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="110" />
 </a>
+
 ---
 
 ## 💼 Work Experience
