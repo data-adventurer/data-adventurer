@@ -46,14 +46,6 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 <a href="https://www.credly.com/badges/fb5e29e7-9874-4aed-91d2-1f855811f262/public_url">
   <img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="110" />
 </a>
- <!-- DataCamp -->
- <a href="https://www.datacamp.com/certificate/DAA0014172024382">
-  <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png" alt="Data Analyst Associate" width="100" />
- </a>
-<a href="https://www.datacamp.com/certificate/DEA0015756379518">
-  <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DE_Associate_-_badge_with_outline.png" alt="Data Engineer Associate" width="100" />
-</a>
-
 ---
 
 ## 💼 Work Experience
