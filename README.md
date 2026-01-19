@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Lorraine 
 ---
 
-From the grasslands of South Africa to the concrete jungle of New York City, my journey has been one of curiosity and exploration, adapting to the various rhythms of the different environments. Using my background in mechanical engineering, I have worked in various industries, including manufacturing, childcare, and hospitality. I have developed a flexible skill set and a people-centred approach to problem-solving.
-With a love for puzzle-solving and learning new skills, I transitioned into data analytics and earned a master’s in data analysis from Western Governors University. My capstone project focused on a two-way MANOVA analysis of marketing campaign data, examining how language and location impact key performance metrics like click-through rates, conversion rates, and ROI. Through that program, I built a strong foundation in Python, SQL, and Tableau and developed a deeper understanding of applying statistical analysis to real-world business problems.
+Analytics engineering consultant focused on building analysis-ready data models that enable clear, timely business decision-making. Designs and maintains schemas within a medallion architecture, delivering Tableau-ready datasets with consistent metric definitions and reliable downstream analysis. Works closely with data analysts to translate reporting and analytical needs into well-structured tables and partners with data engineering teams to support efficient, scalable pipelines aligned with CI/CD, data governance standards, and modern engineering best practices.
 
-Since joining the Information Lab, I’ve sharpened my Tableau skills, explored Alteryx and dbt, and continued deepening my SQL expertise. During my time with a client, I led the development of dashboards that supported teams like Employee Relations, Compensation, and HR, focusing on people analytics. In addition to building visualisations and automating workflows, I created detailed documentation to support the dashboard development process, ensuring clarity, consistency, and smooth handovers between consultants.
-Outside work, I’m always up for a new adventure—whether picking up hobbies like scuba diving and motorcycle riding or delving into personal projects that call on my creativity and enhance my technical skills. And when I’m not in data mode, you’ll likely find me nose-deep in a great book or planning my next adventure.
+Background in analytics consulting with experience delivering end-to-end reporting solutions across HR, people analytics, and risk analysis. Proven work modelling and standardizing Workday-sourced data, automating data transformations, and building curated Tableau reports supporting employee relations, compensation, HR operations, and risk-related metrics - reducing manual reporting effort, shortening time to insight, and improving data consistency and metric reliability.
+
+Strong emphasis on sustainable analytics through comprehensive documentation of data sources, transformations, calculations, and reporting logic, along with analyst enablement through training and reusable best-practice guides to increase self-service adoption. Contributor of technical blog posts on analytics engineering topics, including data warehousing fundamentals, modern data pipelines, and transformation best practices.
+
+Background rooted in South Africa with professional experience in New York City, bringing an adaptable, people-centred approach shaped by work across engineering, manufacturing, childcare, and hospitality. 
+
   
 ---
 
@@ -50,27 +53,30 @@ Outside work, I’m always up for a new adventure—whether picking up hobbies l
 ---
 
 ## 💼 Work Experience
+### **Analytics Engineer** – The Informationlab (US)
+*2025 - Present*
+
+- Designs and maintains schemas within a medallion architecture to produce analysis- and Tableau-ready datasets with consistent, reliable metric definitions.
+- Translates reporting and analytical requirements into well-structured, reusable tables in close collaboration with data analysts.
+- Partners with data engineering teams to support efficient, scalable data pipelines aligned with CI/CD, data governance standards, and modern engineering best practices.
+
 ### **Data Analyst** – The Informationlab (US)  
-*2023 – Present*
+*2023 – 2025*
 
 
-Short-Term Project
-- Created a dashboard with Scrum metrics (KPIs) to measure team productivity, effectiveness, and project progress, identifying key areas for improvement.
-
-
-Long-Term Client Engagement:
-- Created data tables from Workday reports for Tableau dashboards.
-- Automated 10 Alteryx workflows and published them to the server, saving approximately one hour of manual labour per workflow.
-- Developed a Tableau dashboard for employee relations, reducing time for insight by aggregating data and streamlining report creation.
-- Created a Tableau dashboard for HR operations, focusing on trending data for ticket handling.
-- Updated a Tableau dashboard for Compensation Planning, improving clarity and user experience.
-- Created user guides for dashboards to enhance user understanding and adoption.
-- Developed extensive documentation for dashboards and workflows to facilitate future knowledge transfer.
+- Modeled and standardized HR and people-operations data extracted from Workday reports into analytics-ready tables for downstream reporting and analysis.
+- Designed and automated 10 Alteryx transformation workflows to cleanse, join, and structure source data, saving ~1 hour of manual effort per workflow and improving data consistency.
+- Built curated analytics datasets for employee relations, HR operations, compensation, and agile delivery metrics, consolidating disparate inputs to reduce time to insight and streamline reporting.
+- Implemented automated reporting logic for employee relations data, including missing-metric handling and trend calculations, reducing report preparation time from 3–4 days to a few hours and eliminating ~80–90% of manual effort.
+- Defined standardized KPIs, health metrics, and trend logic across HR and risk-related datasets, improving metric reliability, stakeholder visibility, and reducing manual analysis by up to 60%.
+- Authored comprehensive analytics documentation in Confluence covering data sources, transformations, calculations, and reporting logic, reducing onboarding and knowledge transfer time by an estimated 50%.
+- Led analytics enablement through one-on-one analyst training and reusable best-practice guides, increasing self-service adoption and consistent use of standardized metrics.
+- Authored technical blog posts on analytics engineering topics, including data warehousing fundamentals, modern data pipelines, and transformation best practices, contributing to internal and external analytics knowledge sharing.
 
 ### **Mechanical Engineer** - Ducommun Incorporated
 #### **Quality & Planner Engineer**  
 *Sep 2022 – Dec 2023*  
-- Established accuracy of current engineering by validating customer configuration management, specifications, tooling, and manufacturing processes.  
+- Established the accuracy of current engineering by validating customer configuration management, specifications, tooling, and manufacturing processes.  
 - Created over **300 detailed reports** in support of first-piece production per **AS9102** for **Boeing Commercial Aircraft, Sikorsky Aircraft, Bell Helicopter, Northrop Grumman**, and more.  
 - Created and interpreted **engineering drawings, mylars,** and **model-based engineering** documentation.  
 
@@ -99,16 +105,9 @@ Long-Term Client Engagement:
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, SQL
+- **Programming:** Python, SQL, dbt
 - **Data Visualization:** Tableau
 - **Other:** Alteryx, Tableau Prep
-
----
-
-## 🌟 Projects
-1. **📈 MANOVA Analysis – Marketing Data**  
-   - Explored the effect of language and location on conversion rates and ROI  
-   - Tools: Python  
 
 ---
 
