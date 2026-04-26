@@ -1,15 +1,22 @@
 # 👋 Hi, I'm Lorraine 
 ---
 
-Analytics engineering consultant focused on building analysis-ready data models that enable clear, timely business decision-making. Designs and maintains schemas within a medallion architecture, delivering Tableau-ready datasets with consistent metric definitions and reliable downstream analysis. Works closely with data analysts to translate reporting and analytical needs into well-structured tables and partners with data engineering teams to support efficient, scalable pipelines aligned with CI/CD, data governance standards, and modern engineering best practices.
+**Analytics Engineering Consultant** at The Information Lab US · NYC via South Africa
 
-Background in analytics consulting with experience delivering end-to-end reporting solutions across HR, people analytics, and risk analysis. Proven work modelling and standardizing Workday-sourced data, automating data transformations, and building curated Tableau reports supporting employee relations, compensation, HR operations, and risk-related metrics - reducing manual reporting effort, shortening time to insight, and improving data consistency and metric reliability.
+I build analysis-ready data models and reporting infrastructure for clients in financial services and beyond — from schema design for Tableau Cloud & Pulse, to SCD strategy, semantic layers in Salesforce Data360, and debugging production pipelines.
 
-Strong emphasis on sustainable analytics through comprehensive documentation of data sources, transformations, calculations, and reporting logic, along with analyst enablement through training and reusable best-practice guides to increase self-service adoption. Contributor of technical blog posts on analytics engineering topics, including data warehousing fundamentals, modern data pipelines, and transformation best practices.
+A non-linear path through engineering, manufacturing, hospitality, and childcare shaped the people-centered approach I bring to every data project.
 
-Background rooted in South Africa with professional experience in New York City, bringing an adaptable, people-centred approach shaped by work across engineering, manufacturing, childcare, and hospitality. 
+🌱 **Currently learning:** dbt · AWS · Databricks · Snowflake
 
-  
+🔭 **Currently working on:**
+- 📚 Data Engineering Office Hours at The Information Lab
+- ✍️ Technical blog posts on data warehousing & modern pipelines  
+- 🧪 Practice challenges for people learning the modern data stack
+
+**💼 Background:**
+Two years as a Tableau & Alteryx consultant building Workday-sourced HR analytics for employee relations, compensation, HR ops, and risk reporting. A non-linear path through engineering, manufacturing, childcare, and hospitality, before that, which is where the people-centered approach to data comes from. 
+
 ---
 
 ### View my verified badges
@@ -60,9 +67,8 @@ Background rooted in South Africa with professional experience in New York City,
 - Translates reporting and analytical requirements into well-structured, reusable tables in close collaboration with data analysts.
 - Partners with data engineering teams to support efficient, scalable data pipelines aligned with CI/CD, data governance standards, and modern engineering best practices.
 
-### **Data Analyst** – The Informationlab (US)  
+### **Data Analyst** – The Informationlab US  
 *2023 – 2025*
-
 
 - Modeled and standardized HR and people-operations data extracted from Workday reports into analytics-ready tables for downstream reporting and analysis.
 - Designed and automated 10 Alteryx transformation workflows to cleanse, join, and structure source data, saving ~1 hour of manual effort per workflow and improving data consistency.
@@ -73,25 +79,10 @@ Background rooted in South Africa with professional experience in New York City,
 - Led analytics enablement through one-on-one analyst training and reusable best-practice guides, increasing self-service adoption and consistent use of standardized metrics.
 - Authored technical blog posts on analytics engineering topics, including data warehousing fundamentals, modern data pipelines, and transformation best practices, contributing to internal and external analytics knowledge sharing.
 
-### **Mechanical Engineer** - Ducommun Incorporated
-#### **Quality & Planner Engineer**  
-*Sep 2022 – Dec 2023*  
-- Established the accuracy of current engineering by validating customer configuration management, specifications, tooling, and manufacturing processes.  
-- Created over **300 detailed reports** in support of first-piece production per **AS9102** for **Boeing Commercial Aircraft, Sikorsky Aircraft, Bell Helicopter, Northrop Grumman**, and more.  
-- Created and interpreted **engineering drawings, mylars,** and **model-based engineering** documentation.  
+### Mechanical Engineer – Ducommun Incorporated
+*Aug 2021 – Dec 2023* · Quality & Planner Engineer → Manufacturing Engineering Technician → Sheet Metal Fabricator
 
-#### **Manufacturing Engineering Technician**  
-*Jan 2022 – Sep 2022*  
-- Supported operators in the manufacturing process.  
-- Decreased manufacturing time by optimizing machine selection for part formation.  
-- Generated reports on operator efficiency to identify causes and suggest improvements.  
-- Investigated manufacturing issues to reduce scrap levels.  
-- Dispositioned non-conforming details and assemblies through **MRRs (Material Review Requests)**.  
-
-#### **Sheet Metal Fabricator**  
-*Aug 2021 – Jan 2022*  
-- Combined technical skills and engineering knowledge to create and assemble parts successfully.  
-- Acquired hands-on experience with tools, machines, and a **5-axis laser**. 
+Progressed through three roles in aerospace manufacturing — from hands-on fabrication with 5-axis laser equipment to creating 300+ AS9102 first-piece production reports for Boeing, Sikorsky, Bell Helicopter, and Northrop Grumman. Foundation in engineering rigor, documentation standards, and root-cause analysis that I now bring to data work.
 
 ---
 
@@ -105,9 +96,10 @@ Background rooted in South Africa with professional experience in New York City,
 ---
 
 ## 🛠️ Skills
-- **Programming:** Python, SQL, dbt
-- **Data Visualization:** Tableau
-- **Other:** Alteryx, Tableau Prep
+
+**Currently using:** SQL · Python · dbt · Tableau · Alteryx · Tableau Prep · Salesforce Data360 · Git/GitHub  
+**Currently learning:** AWS · Databricks · Snowflake (Essentials complete)  
+**Foundation in:** Data modeling · Medallion architecture · SCD strategies · CI/CD for data · Documentation
 
 ---
 
