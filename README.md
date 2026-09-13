@@ -41,14 +41,6 @@ Two years as a Tableau & Alteryx consultant building Workday-sourced HR analytic
 </a>
 
 <!-- Credly -->
-<a href="https://www.credly.com/badges/5d8d3ba7-b329-4de4-9b6c-ed93d83f2483/public_url">
-  <img src="https://images.credly.com/size/80x80/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" alt="Tableau Data Analyst" width="110" />
-</a>
-<a href="https://www.credly.com/badges/f9ff52aa-45f7-453f-b9ce-c7ff83998ce6/public_url">
-  <img src="https://images.credly.com/size/80x80/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced" width="110" />
-</a>
-<a href="https://www.credly.com/badges/bee38462-0782-4332-97e3-3ee7a83f9547/public_url">
-  <img src="https://images.credly.com/size/80x80/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="110" />
 </a>
 <a href="https://www.credly.com/badges/a882d402-c1bb-4ec6-9342-4695de0a01a2/public_url">
   <img src="https://images.credly.com/size/80x80/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="Python Entry-Level" width="110" />
